@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I’m currently working on Fitly - diet and training web app.<br>- 🌱 I’m currently learning JAVA @InfoShareAcademy<br>- 🤔 I’m looking for help with everything at the moment ^^<br>- 💬 Ask me about anything! I'd love to help, talk and work with any of you.<br>- 📫 How to reach me:<br>  - piotrek.fiuk@gmail.com<br>- 😄 Pronouns: you can call me Rabit<br>- Fun fact: while ago I was a carpenter, bartender and a DJ :D
+### Hi there 👋<br><br>- 🔭 I’m currently working on Vanilla JS game.<br>- 🌱 <br>- 🤔 I’m looking for a job, new adventure! ^^<br>- 💬 Ask me about anything! I'd love to help, talk and work with any of you.<br>- 📫 How to reach me:<br>  - piotrek.fiuk@gmail.com<br>- 😄 Pronouns: you can call me Rabit<br>- Fun fact: while ago I was a landscape architect, carpenter, bartender and a DJ :D
 
 
 ## 🌐 Socials:
