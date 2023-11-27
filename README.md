@@ -6,9 +6,9 @@ My games and apps:<br>
   <li><a href="https://fitly.onrender.com/">Fitly</a> (Java/Spring web app)</li>
   <li><a href="https://fiukpiotr.github.io/bug-buster-pup/">Bug Buster Pup</a> (JS game)</li>
   <li><a href="https://fiukpiotr.github.io/rock-paper-scissors/index.html">Rock Paper Scissors</a> (JS game)</li>
-  <li><a href="https://fiukpiotr.github.io/quiz-app/">Quiz App</a> (reactJS app)</li>
-  <li><a href="https://fiukpiotr.github.io/todo-list/">Todo List App</a> (reactJS app)</li>
-  <li><a href="https://fiukpiotr.github.io/calculator/">Calculator App</a> (JS app)</li>
+  <li><a href="https://fiukpiotr.github.io/quiz-app/">Quiz</a> (reactJS app)</li>
+  <li><a href="https://fiukpiotr.github.io/todo-list/">Todo List</a> (reactJS app)</li>
+  <li><a href="https://fiukpiotr.github.io/calculator/">Calculator</a> (JS app)</li>
 </ul>
 <br><br>
 During the bootcamp, I became proficient in Java, JavaScript, and HTML/CSS. Since completing the course, I have continuously been refining my skills in these areas and related topics (such as Vue.js, TypeScript, React, AWS, and Firebase - through Udemy courses and YouTube). In the upcoming quarter, I plan to expand my knowledge further into advanced aspects of Java (data structures, multithreading, Spring, Hibernate frameworks, and improving my skills in writing JUnit unit tests), languages and concepts related to frontend development, as well as mobile app development for Android. These pursuits are closely tied to projects I have been invited to work on after completing the course (a healthcare app with an NFZ database, a web application for appointment scheduling and calendar organization for private entrepreneurs, and a simple companion app for board games).
